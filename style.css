@@ -1,0 +1,8 @@
+div {
+    height: 220px;
+    width: 350px;
+    padding: 12px 10px 20px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
+    background-color: green;
+}
